@@ -303,6 +303,6 @@ Open the website in your browser http://<Web-Server-Public-IP-Address-or-Public-
 
 ## Challenges
 
-I had database connection error, I had to edit the functions.php with the IP address of the database server and also the username, password and the database.
-I had trouble logging in to the website, I had to look through the code with a close eyes and hence find out that they password was encrypted with md5 algorithm and it has to be decrypted before I can login in to the system.
+I encountered database connection error, I had to edit the functions.php with the IP address of the database server and also the username, password and the database.
+I had trouble logging in to the website, I had to look through the code with a close eyes and hence find out that the password was encrypted with md5 algorithm and it has to be decrypted before I can login in to the system.
 
